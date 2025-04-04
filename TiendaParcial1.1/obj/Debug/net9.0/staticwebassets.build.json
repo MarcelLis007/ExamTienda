@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+/5XF1SSXqrrsdrWFCqTNY4g6JmxLhW0RzjLohL+z8s=",
+  "Hash": "5KQpQFLjuYpAFnzGmYj43aBZDdeTCtLaQubMJiTcLgM=",
   "Source": "TiendaParcial1.1",
   "BasePath": "_content/TiendaParcial1.1",
   "Mode": "Default",
@@ -3755,6 +3755,27 @@
       "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+      "Identity": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\obj\\Debug\\net9.0\\compressed\\wghlzs6np2-slxj33ox8a.gz",
+      "SourceId": "TiendaParcial1.1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TiendaParcial1.1",
+      "RelativePath": "css/TiendaParcial1._1.styles#[.{fingerprint=slxj33ox8a}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\wwwroot\\css\\TiendaParcial1._1.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3avl7dvpun",
+      "Integrity": "m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\wwwroot\\css\\TiendaParcial1._1.styles.css"
+    },
+    {
       "Identity": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\obj\\Debug\\net9.0\\compressed\\xa379ftczi-6pdc2jztkx.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -4047,6 +4068,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\wwwroot\\css\\TiendaParcial1._1.styles.css",
+      "SourceId": "TiendaParcial1.1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\wwwroot\\",
+      "BasePath": "_content/TiendaParcial1.1",
+      "RelativePath": "css/TiendaParcial1._1.styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "slxj33ox8a",
+      "Integrity": "IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\TiendaParcial1._1.styles.css"
     },
     {
       "Identity": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\wwwroot\\favicon.ico",
@@ -5684,6 +5726,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+        }
+      ]
+    },
+    {
+      "Route": "css/TiendaParcial1._1.styles.css",
+      "AssetFile": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\obj\\Debug\\net9.0\\compressed\\wghlzs6np2-slxj33ox8a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003759398496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "265"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/TiendaParcial1._1.styles.css",
+      "AssetFile": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\wwwroot\\css\\TiendaParcial1._1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/TiendaParcial1._1.styles.css.gz",
+      "AssetFile": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\obj\\Debug\\net9.0\\compressed\\wghlzs6np2-slxj33ox8a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "265"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw="
+        }
+      ]
+    },
+    {
+      "Route": "css/TiendaParcial1._1.styles.slxj33ox8a.css",
+      "AssetFile": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\obj\\Debug\\net9.0\\compressed\\wghlzs6np2-slxj33ox8a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003759398496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "265"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "slxj33ox8a"
+        },
+        {
+          "Name": "label",
+          "Value": "css/TiendaParcial1._1.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/TiendaParcial1._1.styles.slxj33ox8a.css",
+      "AssetFile": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\wwwroot\\css\\TiendaParcial1._1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "slxj33ox8a"
+        },
+        {
+          "Name": "label",
+          "Value": "css/TiendaParcial1._1.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/TiendaParcial1._1.styles.slxj33ox8a.css.gz",
+      "AssetFile": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\obj\\Debug\\net9.0\\compressed\\wghlzs6np2-slxj33ox8a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "265"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "slxj33ox8a"
+        },
+        {
+          "Name": "label",
+          "Value": "css/TiendaParcial1._1.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw="
         }
       ]
     },

@@ -56,11 +56,13 @@ C:\Users\User\Documents\Semestres\6to semestre\DEBERES PROGRMAACION WEB\Examen 6
 C:\Users\User\Documents\Semestres\6to semestre\DEBERES PROGRMAACION WEB\Examen 6to\Parcial1.1\tiendaparcial1.1\TiendaParcial1.1\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\Users\User\Documents\Semestres\6to semestre\DEBERES PROGRMAACION WEB\Examen 6to\Parcial1.1\tiendaparcial1.1\TiendaParcial1.1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 C:\Users\User\Documents\Semestres\6to semestre\DEBERES PROGRMAACION WEB\Examen 6to\Parcial1.1\tiendaparcial1.1\TiendaParcial1.1\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\User\Documents\Semestres\6to semestre\DEBERES PROGRMAACION WEB\Examen 6to\Parcial1.1\tiendaparcial1.1\TiendaParcial1.1\wwwroot\css\TiendaParcial1._1.styles.css
 C:\Users\User\Documents\Semestres\6to semestre\DEBERES PROGRMAACION WEB\Examen 6to\Parcial1.1\tiendaparcial1.1\TiendaParcial1.1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\User\Documents\Semestres\6to semestre\DEBERES PROGRMAACION WEB\Examen 6to\Parcial1.1\tiendaparcial1.1\TiendaParcial1.1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 C:\Users\User\Documents\Semestres\6to semestre\DEBERES PROGRMAACION WEB\Examen 6to\Parcial1.1\tiendaparcial1.1\TiendaParcial1.1\wwwroot\favicon.ico
 C:\Users\User\Documents\Semestres\6to semestre\DEBERES PROGRMAACION WEB\Examen 6to\Parcial1.1\tiendaparcial1.1\TiendaParcial1.1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
 wwwroot\css\site.css
+wwwroot\css\TiendaParcial1._1.styles.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

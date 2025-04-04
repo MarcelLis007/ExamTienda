@@ -1,0 +1,31 @@
+﻿/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #007bff !important;
+}
+
+.navbar-brand,
+.nav-link {
+    color: white !important;
+}
+
+    .nav-link:hover {
+        color: #d4d4d4 !important;
+    }
+
+.container {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}

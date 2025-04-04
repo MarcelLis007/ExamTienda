@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-TiendaParcial1._1-2760fd84-768a-4d77-9368-90bef6b66bb8")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiendaParcial1.1")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdb535b6e07ca755f62c82c418895ffdb0a71007")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiendaParcial1.1")]

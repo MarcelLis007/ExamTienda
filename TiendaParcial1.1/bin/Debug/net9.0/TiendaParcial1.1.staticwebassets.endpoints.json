@@ -8832,6 +8832,304 @@
       ]
     },
     {
+      "Route": "css/TiendaParcial1._1.styles.css",
+      "AssetFile": "css/TiendaParcial1._1.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003759398496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "265"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/TiendaParcial1._1.styles.css",
+      "AssetFile": "css/TiendaParcial1._1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/TiendaParcial1._1.styles.css.gz",
+      "AssetFile": "css/TiendaParcial1._1.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "265"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw="
+        }
+      ]
+    },
+    {
+      "Route": "css/TiendaParcial1._1.styles.slxj33ox8a.css",
+      "AssetFile": "css/TiendaParcial1._1.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003759398496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "265"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "slxj33ox8a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E="
+        },
+        {
+          "Name": "label",
+          "Value": "css/TiendaParcial1._1.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/TiendaParcial1._1.styles.slxj33ox8a.css",
+      "AssetFile": "css/TiendaParcial1._1.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "slxj33ox8a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEAV9m5TfKnGZQZ74xfy8coYitBFHzoN9yNxluj6G7E="
+        },
+        {
+          "Name": "label",
+          "Value": "css/TiendaParcial1._1.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/TiendaParcial1._1.styles.slxj33ox8a.css.gz",
+      "AssetFile": "css/TiendaParcial1._1.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "265"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 20:57:37 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "slxj33ox8a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m3yeGme/8roVpggz5GZAMX926pRnssHjXRoB/sMKIvw="
+        },
+        {
+          "Name": "label",
+          "Value": "css/TiendaParcial1._1.styles.css.gz"
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "css/site.css.gz",
       "Selectors": [
