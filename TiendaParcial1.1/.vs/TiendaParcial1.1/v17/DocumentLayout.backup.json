@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\controllers\\productoordencomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:controllers\\productoordencomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\services\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:services\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\data\\migrations\\20250404182011_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:data\\migrations\\20250404182011_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\controllers\\ordencomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:controllers\\ordencomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\models\\productoordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:models\\productoordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\models\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:models\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|c:\\users\\user\\documents\\semestres\\6to semestre\\deberes progrmaacion web\\examen 6to\\parcial1.1\\tiendaparcial1.1\\tiendaparcial1.1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD32E3B-CDA8-4645-B304-B4CB9A65DAA7}|TiendaParcial1.1.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 149,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:44:02.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Services\\RoleInitializer.cs",
+              "RelativeDocumentMoniker": "Services\\RoleInitializer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Services\\RoleInitializer.cs",
+              "RelativeToolTip": "Services\\RoleInitializer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:25:01.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:14:52.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T19:14:43.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:14:10.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T19:05:20.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginWith2fa.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T19:05:19.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-04T19:04:52.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAQwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:54:22.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAQwJoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:53:37.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T18:48:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250404182011_init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Data\\Migrations\\20250404182011_init.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250404182011_init.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Data\\Migrations\\20250404182011_init.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250404182011_init.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAwwMUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:20:11.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:18:42.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProveedorsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\ProveedorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProveedorsController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\ProveedorsController.cs",
+              "RelativeToolTip": "Controllers\\ProveedorsController.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAQwKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:16:04.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoOrdenComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\ProductoOrdenComprasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoOrdenComprasController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\ProductoOrdenComprasController.cs",
+              "RelativeToolTip": "Controllers\\ProductoOrdenComprasController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAQwK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:15:18.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAQwK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:14:28.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrdenComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\OrdenComprasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdenComprasController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\OrdenComprasController.cs",
+              "RelativeToolTip": "Controllers\\OrdenComprasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:13:47.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:12:31.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:03:08.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductoOrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\ProductoOrdenCompra.cs",
+              "RelativeDocumentMoniker": "Models\\ProductoOrdenCompra.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\ProductoOrdenCompra.cs",
+              "RelativeToolTip": "Models\\ProductoOrdenCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:58:43.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\OrdenCompra.cs",
+              "RelativeDocumentMoniker": "Models\\OrdenCompra.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\OrdenCompra.cs",
+              "RelativeToolTip": "Models\\OrdenCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:58:24.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:58:02.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:57:32.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\Proveedor.cs",
+              "RelativeToolTip": "Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:57:10.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:56:50.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:56:27.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T17:52:12.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
