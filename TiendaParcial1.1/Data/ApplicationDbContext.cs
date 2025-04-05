@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using TiendaParcial1._1.Models; // Asegúrate de que este using apunte a donde están tus modelos
+using TiendaParcial1._1.Models; 
 
 namespace TiendaParcial1._1.Data;
 
@@ -11,7 +11,7 @@ public class ApplicationDbContext : IdentityDbContext
     {
     }
 
-    // DbSets para cada una de tus entidades
+    // DbSets para cada  entidades
     public DbSet<Usuario> Usuarios { get; set; }
     public DbSet<Role> Roles { get; set; }
     public DbSet<Proveedor> Proveedores { get; set; }
@@ -22,10 +22,9 @@ public class ApplicationDbContext : IdentityDbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        base.OnModelCreating(modelBuilder); // Importante para la configuración de Identity
+        base.OnModelCreating(modelBuilder); 
 
-        // Configuraciones adicionales para tus modelos
-
+        // Configuraciones adicionales 
         // Configuración para la relación muchos-a-muchos entre OrdenCompra y Producto
         modelBuilder.Entity<ProductoOrdenCompra>()
             .HasKey(poc => new { poc.OrdenCompraId, poc.ProductoId });

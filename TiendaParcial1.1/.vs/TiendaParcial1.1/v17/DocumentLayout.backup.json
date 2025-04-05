@@ -126,12 +126,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 29,
+          "SelectedChildIndex": 28,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
@@ -142,8 +138,7 @@
               "RelativeToolTip": "wwwroot\\css\\TiendaParcial1._1.styles.css",
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-04T20:57:16.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T20:57:16.856Z"
             },
             {
               "$type": "Document",
@@ -155,8 +150,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-04T20:49:53.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T20:49:53.377Z"
             },
             {
               "$type": "Document",
@@ -216,8 +210,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T19:14:10.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T19:14:10.536Z"
             },
             {
               "$type": "Document",
@@ -289,8 +282,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T18:48:26.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T18:48:26.017Z"
             },
             {
               "$type": "Document",
@@ -302,8 +294,7 @@
               "RelativeToolTip": "Data\\Migrations\\20250404182011_init.cs",
               "ViewState": "AgIAAL0AAAAAAAAAAAAwwNYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T18:20:11.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T18:20:11.987Z"
             },
             {
               "$type": "Document",
@@ -351,8 +342,7 @@
               "RelativeToolTip": "Controllers\\ProductoesController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T18:14:28.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T18:14:28.276Z"
             },
             {
               "$type": "Document",
@@ -388,8 +378,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAABsAAAAAAAAAAADwvzQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T18:03:08.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T18:03:08.099Z"
             },
             {
               "$type": "Document",
@@ -425,8 +414,7 @@
               "RelativeToolTip": "Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T17:58:02.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T17:58:02.943Z"
             },
             {
               "$type": "Document",
@@ -484,10 +472,14 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\User\\Documents\\Semestres\\6to semestre\\DEBERES PROGRMAACION WEB\\Examen 6to\\Parcial1.1\\tiendaparcial1.1\\TiendaParcial1.1\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-04T17:52:12.583Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
