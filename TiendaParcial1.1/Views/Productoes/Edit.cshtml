@@ -1,4 +1,4 @@
-﻿@model TiendaParcial1._1.Models.Producto
+﻿@model TiendaParcial1._1.Dto.ProductoDTO
 
 @{
     ViewData["Title"] = "Edit";
@@ -51,5 +51,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
